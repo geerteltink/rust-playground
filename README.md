@@ -11,5 +11,6 @@ cargo test -p hello_world
 ## Resources
 
 - The book: https://doc.rust-lang.org/book/
+- CLI apps: https://rust-cli.github.io/book/
 - Best practices: https://rust-lang.github.io/api-guidelines/
 - Cargo package manager: https://doc.rust-lang.org/cargo/
